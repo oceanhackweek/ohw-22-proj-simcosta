@@ -1,0 +1,34 @@
+name: TS
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - bokeh
+  - cartopy
+  - cf_xarray
+  - ctd
+  - erddapy
+  - geopandas
+  - geoviews
+  - gsw
+  - h5netcdf
+  - holoviews
+  - hvplot
+  - ioos_qc
+  - jupyter
+  - matplotlib-base
+  - nc-time-axis
+  - netcdf4
+  - numpy
+  - palettable
+  - pandas
+  - panel
+  - pyjanitor
+  - scipy
+  - seaborn
+  - searvey
+  - seawater
+  - shapely
+  - xarray
+  - xlrd
+  - zarr
