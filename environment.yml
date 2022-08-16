@@ -29,6 +29,7 @@ dependencies:
   - searvey
   - seawater
   - shapely
+  - windrose
   - xarray
   - xlrd
   - zarr
