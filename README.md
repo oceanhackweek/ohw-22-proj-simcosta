@@ -32,6 +32,11 @@ More information can be found in: [SiMCosta](https://simcosta.furg.br/home)
 - Day One: We created the group and defined the project
 - Day Two: We created the environment and explored the data
 - Day Three: We cleaned the data and created a time series. We specified the period and parameters that we are going to analyse.
-- Day Four:
+- Day Four: We made a windrose with the time series, the statistical correlation between the parameters and the PCA analysis. 
+- Day Five: We made the presentation of the project
 
 ### References
+
+[PCA Analysis](https://ocefpaf.github.io/python4oceanographers/blog/2014/12/01/PCA/)
+[SiMCosta](https://simcosta.furg.br/home)
+
